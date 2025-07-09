@@ -1,8 +1,9 @@
 <h1 align="center">🐧✨ Linux Mastery: My Personal Journey into the Penguin World</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F78D&width=500&height=50&lines=Exploring+Linux+Internals+like+a+Pro!;DevOps+Ready+Linux+Learning+Path;Shell+Scripting+%F0%9F%90%9A+Mastery+Unleashed" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&width=600&lines=Linux+System+Mastery+In+Progress...;From+Zero+to+Shell+Script+Hero.;Mastering+the+Backbone+of+Modern+Infrastructure." />
 </p>
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="450"/>
