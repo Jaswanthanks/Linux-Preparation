@@ -119,6 +119,7 @@ To build a production-grade foundational understanding of Linux for **Cloud**, *
 | **PuTTY**             | Remote Access (SSH)          |
 | **VS Code**           | Code, Scripts, Notes         |
 | **Markdown + Git**    | Documentation & Repo Mgmt    |
+| **OS Used**    | Centos 9 / Linux   |
 
 ---
 
