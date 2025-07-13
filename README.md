@@ -6,8 +6,10 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="450"/>
+  <img src="https://gifdb.com/images/high/linux-security-threats-pbg4lo5xdtkidmg5.gif" alt="Dual-pane terminal" width="450" height="340" />
+    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="450"/>
 </div>
+
 
 ---
 
