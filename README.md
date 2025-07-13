@@ -24,6 +24,7 @@ To build a production-grade foundational understanding of Linux for **Cloud**, *
 
 ![Status](https://img.shields.io/badge/Status-In%20Progress-orange?style=for-the-badge&logo=gnu-bash)
 ![Focus](https://img.shields.io/badge/Focus-System%20Engineering-blueviolet?style=for-the-badge&logo=linux)
+![Linux](https://img.shields.io/badge/OS-Linux-blue?style=for-the-badge&logo=linux)
 ![Linux Version](https://img.shields.io/badge/Distro-CentOS%2FRedhat-critical?style=for-the-badge&logo=redhat)
 ![IDE](https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visualstudiocode)
 ![VM](https://img.shields.io/badge/Virtualization-VirtualBox-lightgrey?style=for-the-badge&logo=virtualbox)
