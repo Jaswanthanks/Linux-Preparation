@@ -1,7 +1,7 @@
 <h1 align="center">Linux Mastery: My Personal Journey into the Penguin World</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&width=600&lines=Linux+System+Mastery+In+Progress...;From+Zero+to+Shell+Script+Hero.;Mastering+the+Backbone+of+Modern+Infrastructure." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&width=600&lines=Linux+System+Mastery+In+Progress...;From+Zero+to+Shell+Script+Hero.;" />
 </p>
 
 
