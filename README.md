@@ -92,17 +92,10 @@ To build a production-grade foundational understanding of Linux for **Cloud**, *
 
 </details>
 
-<details>
-<summary>🌐 <strong>Module 7 – Networking & System Updates</strong></summary>
 
-- NIC Configs, wget/curl, yum
-- Apache Setup, SSH, DNS, Logging
-- Security Hardening
-
-</details>
 
 <details>
-<summary>💾 <strong>Module 8 – Disk Management & Boot Process</strong></summary>
+<summary>💾 <strong>Module 7 – Disk Management & Boot Process</strong></summary>
 
 - Runlevels, Boot Process
 - LVM, Partitioning, Swap, RAID
